@@ -1,0 +1,19 @@
+{
+    "token": "o token aqui",
+    "guild_id": "id do servidor que vai filtrar os membros",
+    "active_developer": "ACTIVE_DEVELOPER",
+    "slash_commands": "BOT_HTTP_INTERACTIONS",
+    "bug_hunter_1": "BUGHUNTER_LEVEL_1",
+    "bug_hunter_2": "BUGHUNTER_LEVEL_2",
+    "moderator": "DISCORD_CERTIFIED_MODERATOR",
+    "employee": "DISCORD_EMPLOYEE",
+    "early": "EARLY_SUPPORTER",
+    "early_verified": "EARLY_VERIFIED_BOT_DEVELOPER",
+    "house_ballance": "HOUSE_BALANCE",
+    "house_bravery": "HOUSE_BRAVERY",
+    "house_brilliance": "HOUSE_BRILLIANCE",
+    "hypesquad_events": "HYPESQUAD_EVENTS",
+    "partner": "PARTNERED_SERVER_OWNER",
+    "team_user": "TEAM_USER",
+    "verified_bot": "VERIFIED_BOT"
+}
